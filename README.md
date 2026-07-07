@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about computer / linux / docker i like explainning the few that i know
 - 📫 How to reach me: joanyraf617@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Where you study computer science in my country, everyone think you are a hacker and an electrician
+- ⚡ Fun fact: When you study computer science in my country, everyone think you are a hacker and an electrician
 
